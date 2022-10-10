@@ -1,6 +1,7 @@
+// spacing trabalha com 8x, Ex: 1 = 8, 2 = 16.
+
 import { styled } from "@mui/material";
 
-// spacing trabalha com 8x, Ex: 1 = 8, 2 = 16.
 
 export const ListaStyled = styled('ul')`
     width: 100%;
